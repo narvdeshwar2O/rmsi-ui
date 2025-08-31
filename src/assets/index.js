@@ -8,6 +8,10 @@ import slideron3 from "./slideon03.png";
 import slideron4 from "./slideon04.png";
 import slideron5 from "./slideon05.png";
 import slideron6 from "./slideon06.png";
+
+import slideron7 from "./slideon07.png";
+
+import slideron8 from "./slideon08.png";
 import Hero from "./hero.jpg";
 import Device from "./device.png";
 import strategy from "./strategy.png";
@@ -16,6 +20,11 @@ import work from "./work.jpg";
 import deliver1 from "./delivery01.jpg";
 import deliver2 from "./delivery02.jpg";
 import deliver3 from "./delivery03.jpg";
+import mac01 from "./mac01.jpg"
+import mac02 from "./mac2.jpg"
+import mac03 from "./mac03.jpg"
+
+
 export {
   brand01,
   brand02,
@@ -27,6 +36,8 @@ export {
   slideron4,
   slideron5,
   slideron6,
+  slideron7,
+  slideron8,
   Hero,
   Device,
   strategy,
@@ -35,4 +46,7 @@ export {
   deliver1,
   deliver2,
   deliver3,
+  mac01,
+  mac02,
+  mac03
 };
