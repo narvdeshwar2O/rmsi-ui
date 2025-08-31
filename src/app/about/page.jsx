@@ -133,7 +133,7 @@ export default function AboutUs() {
               viewport={{ once: true }}
               transition={{ duration: 0.5, delay: idx * 0.2 }}
             >
-              <div className="absolute -left-6 top-0 w-4 h-4 bg-indigo-600 rounded-full border-2 border-white shadow-lg"></div>
+              <div className="absolute -left-10 top-0 w-4 h-4 bg-indigo-600 rounded-full border-2 border-white shadow-lg"></div>
               <h3 className="text-xl font-semibold mb-1">{item.year}</h3>
               <p className="text-gray-700">{item.desc}</p>
             </motion.div>
