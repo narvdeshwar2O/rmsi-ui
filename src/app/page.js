@@ -7,6 +7,7 @@ import MachineSection from "./home/MachineSection";
 import GTBSSection from "./home/GTBSSection";
 import Brand04Section from "./home/Brand04Section";
 import Testimonials from "./home/Testimonials";
+import ClientShowcase from "./home/ClientShowcase";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <MachineSection />
       <GTBSSection />
       <Brand04Section />
+      <ClientShowcase />
       <Testimonials />
     </>
   );

@@ -8,9 +8,7 @@ import slideron3 from "./slideon03.png";
 import slideron4 from "./slideon04.png";
 import slideron5 from "./slideon05.png";
 import slideron6 from "./slideon06.png";
-
 import slideron7 from "./slideon07.png";
-
 import slideron8 from "./slideon08.png";
 import Hero from "./hero.jpg";
 import Device from "./device.png";
@@ -23,7 +21,9 @@ import deliver3 from "./delivery03.jpg";
 import mac01 from "./mac01.jpg"
 import mac02 from "./mac2.jpg"
 import mac03 from "./mac03.jpg"
-
+import who from "./whoweare.avif"
+import business from "./business.avif"
+import workprocess from "./workprocess.avif"
 
 export {
   brand01,
@@ -48,5 +48,8 @@ export {
   deliver3,
   mac01,
   mac02,
-  mac03
+  mac03,
+  who,
+  business,
+  workprocess
 };
